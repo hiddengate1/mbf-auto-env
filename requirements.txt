@@ -7,3 +7,4 @@ pygsheets==2.0.6
 plombery==0.4.1
 xlrd==2.0.1
 XlsxWriter==3.2.0
+pyAesCrypt==6.1.1
