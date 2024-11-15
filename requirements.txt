@@ -4,7 +4,6 @@ fastexcel==0.11.5
 httpx==0.25.0
 beautifulsoup4==4.12.3
 pygsheets==2.0.6
-plombery==0.4.1
 xlrd==2.0.1
 XlsxWriter==3.2.0
 pyAesCrypt==6.1.1
