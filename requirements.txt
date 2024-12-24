@@ -9,3 +9,4 @@ XlsxWriter==3.2.0
 pyAesCrypt==6.1.1
 argparse==1.4.0
 pydantic==2.9.2
+Jinja2==3.1.5
